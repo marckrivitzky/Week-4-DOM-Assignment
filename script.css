@@ -1,0 +1,17 @@
+h1 {
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1:hover {
+color: darkgoldenrod;
+}
+
+body{
+background-image: url(https://wallpaperaccess.com/full/136008.jpg);
+}
+
+tr{
+border-style: none ;
+border: none;
+}
